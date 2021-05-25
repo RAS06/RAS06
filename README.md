@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   <ul>
     
-    <li> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> solo Java Project: </a> </li>
+    <li> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06">solo Java Project:</a> </li>
     
   </ul>
   
