@@ -22,8 +22,9 @@ Here are some ideas to get you started:
   <p> Why don't we start with some of my projects?</p>
  
     
-   <p> My very first solo Java Project: https://github.com/RCHS-Programming/final-exam-project-RAS06 </p>
-   <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
+  <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
+  <p> A very difficult <a href = "https://github.com/RCHS-Programming/guess-the-colour-RAS06"> JS Project </a> </p>
+  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p>
     
   
   
