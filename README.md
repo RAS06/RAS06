@@ -32,4 +32,8 @@ Here are some ideas to get you started:
   
   <p> If you ever need to reach more for any reason, at the time of writing this, you'd get the fastest response from my school Email account. If I'm okay with you contacting me, you'll know where to find it.</p>
   
+  <br>
+  
+  <p> And that's that. Thanks for taking a look at my profile. Have a nice life.</p>
+  
   </html>
