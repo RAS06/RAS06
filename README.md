@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   
   <p> Welcome to my GitHub profile. Looks like I got an assignment in my Freshmen year to personalize this thing! Let's do it!</p> <br> <br>
   <p> Why don't we start with some of my projects?</p>
+ 
+    
+   <p> My very first solo Java Project: https://github.com/RCHS-Programming/final-exam-project-RAS06 </p>
+   <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
+    
   
-  <ul>
-    
-    <li> My very first solo Java Project: https://github.com/RCHS-Programming/final-exam-project-RAS06 </li>
-    
-  </ul>
   
   </html>
