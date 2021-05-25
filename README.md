@@ -24,8 +24,12 @@ Here are some ideas to get you started:
     
   <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
   <p> A very difficult <a href = "https://github.com/RCHS-Programming/guess-the-colour-RAS06"> JS Project </a> </p>
-  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p>
+  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p> <br> <br>
     
+  <p> Now that you've seen some of my okay works, I'm Riz. I like web development (because it's easier than using other languages). I'm just trying to make my way through High School at the time of writing this with some form of programming experience. I'm going to pursue this career path in the future (probably software development, seeing as it's harder than web development, it carries a higher wage). </p>
   
+  <br>
+  
+  <p> If you ever need to reach more for any reason, at the time of writing this, you'd get the fastest response from my school Email account. If I'm okay with you contacting me, you'll know where to find it.</p>
   
   </html>
