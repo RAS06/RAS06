@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
+  
+  <p> Welcome to my GitHub profile. Looks like I got an assignment in my Freshmen year to personalize this thing! Let's do it!</p> <br> <br>
+  <p> Why don't we start with some of my projects?</p>
+  
+  </html>
