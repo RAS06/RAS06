@@ -24,7 +24,9 @@ Here are some ideas to get you started:
     
   <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
   <p> A very difficult <a href = "https://github.com/RCHS-Programming/guess-the-colour-RAS06"> JS Project </a> </p>
-  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p> <br> <br>
+  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p>
+  <p> A <a href = "https://github.com/RAS06/dejaVu-Project"> time-loop video game made with Greenfoot API </a> </p>
+  <br> <br>
     
   <p> Now that you've seen some of my okay works, I'm Rizwan. I'm a standard CS student. Looking to be a software dev.</p>
   
