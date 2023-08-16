@@ -25,8 +25,7 @@ Here are some ideas to get you started:
     <li>C++</li>
     <li>TThe appropriate langauges for web design, HTML, CSS, and the appropriate langauges for configuring files, XML.</li>
   </ul>
-  <br>
-  I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL. <br> Also an avid Linux User.
+  I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL. Also I am an avid Linux User.
   </p>
 
   <p>I mostly work with data science and analysis, but I like to keep things interesting. I entertain myself by incorporating my sense of humor into my projects. <br><br> Some of my projects are as follows:</p> <br>
