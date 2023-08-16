@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL.
   </p>
 
-  <p>I mostly work with data science and analysis, but I like to keep things interesting. I entertain myself by incorporating my sense of humor into my projects. <br><br> Some of my projects are as follows: <br></p>
+  <p>I mostly work with data science and analysis, but I like to keep things interesting. I entertain myself by incorporating my sense of humor into my projects. <br><br> Some of my projects are as follows:</p>
  
     
   <p> An <a href = "https://github.com/RAS06/The-ScizoCalendar-Project"> example </a>of my work in JavaFx. I will admit that this one is rather messy, and I really ought to have cleaned it up before turning it in, but I still got full points for it. This particlar (ssemingly basic) calendar program tells the story of a relgious community, terrorized by ancient devils stalking them from the woods via secret \"appointments\" that will flash randomly on the calendar (not written by the user). Intended to be a Vita Carnis-esque story presented in a Simcrulla-esque fashion and unexpectedly has no political undertones.</p>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <p> And through my profile, you'll see a large number of very small, simple GUI designs that I had to write for class. </p>
   <br> <br>
     
-  <p> I'm always ready to learn more.</p>
+  <p>And I'm always ready to learn more.</p>
   
   <br>
   
