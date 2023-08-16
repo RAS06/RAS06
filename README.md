@@ -18,24 +18,33 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   
-  <p> Welcome to my GitHub profile. Looks like I got an assignment in my Freshmen year to personalize this thing! Let's do it!</p> <br> <br>
-  <p> Why don't we start with some of my projects?</p>
+  <p> Rizwan Syed, Computer Science Student.</p> <br> <br>
+  <p> I write in: <ul>
+    <li>Java</li>
+    <li>C++</li>
+    <li>JavaScript</li>
+  </ul>
+  <br>
+  I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL.
+  </p>
+
+  <p>I mostly work with data science and analysis, but I like to keep things interesting. I entertain myself by incorporating my sense of humor into my projects. <br><br> Some of my projects are as follows: <br></p>
  
     
-  <p> My very first <a href = "https://github.com/RCHS-Programming/final-exam-project-RAS06"> Solo Java Project:</a> </p>
-  <p> A very difficult <a href = "https://github.com/RCHS-Programming/guess-the-colour-RAS06"> JS Project </a> </p>
-  <p> A <a href = "https://github.com/RCHS-Programming/sweet-scroll-website-RAS06"> satire website with A Very Cool Scroll </a> </p>
-  <p> A <a href = "https://github.com/RAS06/dejaVu-Project"> time-loop video game made with Greenfoot API </a> </p>
+  <p> An <a href = "https://github.com/RAS06/The-ScizoCalendar-Project"> example </a>of my work in JavaFx. I will admit that this one is rather messy, and I really ought to have cleaned it up before turning it in, but I still got full points for it. This particlar (ssemingly basic) calendar program tells the story of a relgious community, terrorized by ancient devils stalking them from the woods via secret \"appointments\" that will flash randomly on the calendar (not written by the user). Intended to be a Vita Carnis-esque story presented in a Simcrulla-esque fashion and unexpectedly has no political undertones.</p>
+  <p> The <a href = "https://github.com/RAS06/MicroFileManager"> MicroFileMangager, </a>which is essentially a directory system which points to notes-to-self on customizable categories, which the user can edit to keep information stored locally, save that information, and access it later (through a GUI, also an example of my work in JavaFx).</p>
+  <p> A <a href = "https://github.com/RAS06/TermalIO"> wrapper </a> for a hypothetical Terminal game, which can be easily expanded by one with only slight knowledge of C++ into a literary tool of expression. I am aware that I spelled "Terminal" wrong, but I can't be bothered fixing it across all the areas of my system where it needs to be fixed, hence it shall remain incorrect.</p>  
+  <p> And through my profile, you'll see a large number of very small, simple GUI designs that I had to write for class. </p>
   <br> <br>
     
-  <p> Now that you've seen some of my okay works, I'm Rizwan. I'm a standard CS student. Looking to be a software dev.</p>
+  <p> I'm always ready to learn more.</p>
   
   <br>
   
-  <p> If you ever need to reach more for any reason, at the time of writing this, you'd get the fastest response from my school Email account. If I'm okay with you contacting me, you'll know where to find it.</p>
+  <p> If you ever need me, you can ping my disc @Unbreakaskull, or you can email me.</p>
   
   <br>
   
-  <p> And that's that. Thanks for taking a look at my profile. Have a nice life.</p>
+  <p>Thanks for taking a look at my profile. Have a nice life.</p>
   
   </html>
