@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   <br>
-  <p> Rizwan Syed, Computer Science Student.</p> <br> <br>
+  <p> Rizwan Syed, Computer Science Student.</p> <br>
   <p> I write in: <ul>
     <li>Java</li>
     <li>C++</li>
