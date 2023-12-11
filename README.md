@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>Java</li>
     <li>JavaScript</li>
     <li>C++</li>
-    <li>TThe appropriate langauges for web design, HTML, CSS, and the appropriate langauges for configuring files, XML.</li>
+    <li>The appropriate langauges for web design, HTML, CSS, and the appropriate langauges for configuring files, XML.</li>
   </ul>
   I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL. Also I am an avid Linux User.
   </p>
