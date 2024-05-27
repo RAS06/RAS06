@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
   <br>
   
-  <p> If you ever need me, you can ping my disc @Unbreakaskull, or you can email me.</p>
+  <p> If you ever need me, you can ping my disc @Unbreakaskull, or you can email me @rizwanahmadzaidisyed@gmail.com.</p>
   
   <br>
   
