@@ -22,10 +22,11 @@ Here are some ideas to get you started:
   <p> I write in: <ul>
     <li>Java</li>
     <li>JavaScript</li>
-    <li>C++</li>
-    <li>The appropriate langauges for web design, HTML, CSS, and the appropriate langauges for configuring files, XML.</li>
+    <li>C/C++</li>
+    <li>Python</li> 
+    <li>HTML, XML, CSS.</li>
   </ul>
-  I am familar with the JavaFX and JavaFX libraries, as well as Arduino Microcomputing, and a tiny bit of OpenGL. Also I am an avid Linux User.
+  I am familar with the JavaFX Java Swing, Tkiner, PyGUI, as well as Arduino/ESP32 Microcomputing. I enjoy SQLite and MicrosoftSQL. Also I am an avid Linux User.
   </p>
 
   <p>I mostly work with data science and analysis, but I like to keep things interesting. I entertain myself by incorporating my sense of humor into my projects. <br><br> Some of my projects are as follows:</p> <br>
