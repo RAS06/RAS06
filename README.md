@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     
   <p> An <a href = "https://github.com/RAS06/The-ScizoCalendar-Project"> example </a>of my work in JavaFx. I will admit that this one is rather messy, and I really ought to have cleaned it up before turning it in, but I still got full points for it. This particlar (seemingly basic) calendar program tells a rather funny story using "glitch" components, just as a bit of pizzazz as I had some spare time to complete it.</p>
   <p> The <a href = "https://github.com/RAS06/MicroFileManager"> MicroFileMangager, </a>which is essentially a directory system which points to notes-to-self on customizable categories, which the user can edit to keep information stored locally, save that information, and access it later (through a GUI, also an example of my work in JavaFx).</p>
-  <p> A <a href = "https://github.com/RAS06/TermalIO"> wrapper </a> for a hypothetical Terminal game, which can be easily expanded by one with only slight knowledge of C++ into a literary tool of expression. I am aware that I spelled "Terminal" wrong, but I can't be bothered fixing it across all the areas of my system where it needs to be fixed, hence it shall remain incorrect.</p>  
+  <p> A <a href = "https://github.com/RAS06/TermalIO"> wrapper </a> for a hypothetical Terminal game, which can be easily expanded by one with only slight knowledge of C++ into a literary tool of expression.</p>  
   <p> And through my profile, you'll see a large number of very small, simple GUI designs that I had to write for class. </p>
   <br> <br>
     
