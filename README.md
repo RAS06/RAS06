@@ -45,6 +45,6 @@ Here are some ideas to get you started:
   
   <br>
   
-  <p>Thanks for taking a look at my profile. Have a nice life.</p>
+  <p>Thanks for taking a look at my profile. </p>
   
   </html>
